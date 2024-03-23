@@ -1,2 +1,4 @@
 # Shivam-Portfolio
-My portfolio by complete HTML, CSS
+<p> Created a portfolio that shows my skills, education, about me, etc. </p>
+</br>
+<p> Used HTML & CSS to create this portfolio. </p>
