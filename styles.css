@@ -129,6 +129,7 @@ main hr{
     background-color: white;
     margin: 0 150px;
 }
+
 .thirdSection{
     max-width: 80vw;
     margin: auto;
@@ -141,7 +142,7 @@ main hr{
 }
 .thirdSection .box{
     background: white;
-    width: 41vw;
+    width: 80vw;
     height: 2px;
     margin: 56px 0;
     display: flex;
@@ -175,6 +176,10 @@ main hr{
     color: gray;
     width: 150px;
     font-size: 10px;
+}
+
+.thirdSection ul li{
+    list-style: circle;
 }
 
 /*Top MY PIC */
